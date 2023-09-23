@@ -1,0 +1,7 @@
+com/examly/springapp/SpringappApplication.class
+com/examly/springapp/controller/ApiController.class
+com/examly/springapp/model/Team.class
+com/examly/springapp/service/ApiService.class
+com/examly/springapp/repository/PlayerRepo.class
+com/examly/springapp/model/Player.class
+com/examly/springapp/repository/TeamRepo.class

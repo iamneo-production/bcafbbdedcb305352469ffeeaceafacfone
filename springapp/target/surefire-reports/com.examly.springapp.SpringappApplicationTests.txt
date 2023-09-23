@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.examly.springapp.SpringappApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 11.614 s <<< FAILURE! - in com.examly.springapp.SpringappApplicationTests
+testGetByPlayer  Time elapsed: 0.582 s  <<< ERROR!
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.util.NoSuchElementException: No value present
+	at com.examly.springapp.SpringappApplicationTests.testGetByPlayer(SpringappApplicationTests.java:74)
+Caused by: java.util.NoSuchElementException: No value present
+	at com.examly.springapp.SpringappApplicationTests.testGetByPlayer(SpringappApplicationTests.java:74)
+
